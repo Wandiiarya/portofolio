@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1></h1>
+        <h1>wandi selamet aryadi</h1>
       </main>
     </>
   );
